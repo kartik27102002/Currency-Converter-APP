@@ -27,7 +27,4 @@ In the globalized world, currency conversion is something we often encounter. Wh
 
 ⏺ Screeenshot
 -----------
-
-
-![Screenshot 2024-10-10 113730](https://github.com/user-attachments/assets/242edeac-fb54-4a46-b612-c401b5d6b56e)
-
+![Screenshot 2024-10-10 115012](https://github.com/user-attachments/assets/2346f183-03b3-4c4d-826a-eb5ad78b60a9)
