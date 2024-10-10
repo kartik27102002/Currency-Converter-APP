@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+   
+    
+</head>
+<body>
+    <div class="video-container">
+        <video autoplay muted loop>
+          <source src="video.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+
+    <div class="container">
+       <div><h1>Currency Converter</h1><div>
+       <form>
+        <p>ENTER AMOUNT:</P>
+        <input type="text" name="amount" value=1>
+        <div class="drop-box">
+            <div class="fromicon">
+                <p>FROM</p>
+                      <div class="select-container">
+                      <div class="righticon" id="righticon"><img src="https://flagsapi.com/AE/flat/64.png" class="fromicon"></div>
+                      <select name="from" id="from">
+                      
+                      </select>
+                      </div>
+              </div>
+
+                <i class="fa-solid fa-arrow-right-arrow-left"></i>
+                
+                <div class="toicon">
+                  <p>TO</p>
+                        <div class="select-container">
+                        <img src="https://flagsapi.com/AE/flat/64.png" class="toicon">
+                        <select name="to" id="to">
+                       
+                        </select>
+                        </div>
+                </div>
+
+
+        </div>
+        <div id="display"></div>
+        <button> Get Exchange Rate!</button>
+
+       </form>
+
+    </div>
+    <script src="code.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
