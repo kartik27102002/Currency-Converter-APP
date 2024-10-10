@@ -28,7 +28,6 @@ Technologies Used
 Screeenshot
 -----------
 
-[Screenshot 2024-10-10 113730](https://github.com/user-attachments/assets/507cebac-6311-4218-861c-052a67ad6063)
 
------------
+![Screenshot 2024-10-10 113730](https://github.com/user-attachments/assets/242edeac-fb54-4a46-b612-c401b5d6b56e)
 
