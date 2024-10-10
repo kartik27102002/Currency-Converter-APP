@@ -24,3 +24,11 @@ Technologies Used
 -> JavaScript: The logic behind fetching exchange rates, handling user inputs, and performing the conversion.
 
 -> Exchange Rate API: Used for fetching the real-time currency exchange rates. I used ExchangeRate-API, but any reliable API can work.
+
+Screeenshot
+-----------
+
+[Screenshot 2024-10-10 113730](https://github.com/user-attachments/assets/507cebac-6311-4218-861c-052a67ad6063)
+
+-----------
+
